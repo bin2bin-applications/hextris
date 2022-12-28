@@ -2,7 +2,7 @@
 
 <h1 id="app:name">Hextris</h1>
 
-<img id="app:logo" src="https://raw.githubusercontent.com/bin2bin-applications/hextris/master/logo.png" width="180" height="180"></img>
+<img id="app:logo" src="https://cdn.jsdelivr.net/gh/bin2bin-applications/hextris@master/logo.png" width="180" height="180"></img>
 
 ## Developer
 
